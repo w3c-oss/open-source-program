@@ -4,4 +4,4 @@ The [Can I VC Project](https://github.com/w3c-oss/canivc) is a community compati
 
 This is a pilot of the W3C Open Source Program. Documentation related to the pilot includes:
 
-* [Program requirements for the Can I VC project](program-reqs.md)
+* [Program requirements for the Can I VC project](project-reqs.md)
