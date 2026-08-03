@@ -7,4 +7,8 @@ W3C exercises principled influence on the direction of the Web through all of th
 
 # Pilot projects
 
+# Policies
+
+* [General policies for W3C open source projects](policies/general.md)
+
 # Get involved
