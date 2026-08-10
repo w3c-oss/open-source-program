@@ -13,4 +13,17 @@ W3C exercises principled influence on the direction of the Web through all of th
 
 * [General policies for W3C open source projects](policies/general.md)
 
-# Get involved
+# About the pilot
+
+At a high level, W3C's goal for open source pilots are to get a better understanding of how to create a more systematic approach to supporting projects that support W3C's mission and the Web.
+
+We are documenting [what we hope to learn through pilots](pilot-topics.md).
+
+# Feedback
+
+For feedback on the code of a specific project, please refer to that project's repo. 
+
+For feedback about the pilot or more generally about open source at W3C, please raise an issue in this repo.
+
+**Note:** We anticipate also having a mailing list for feedback.
+
