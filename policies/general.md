@@ -10,6 +10,8 @@ References to “W3C” as a decision making entity mean “W3C Staff”. This d
 
 Anyone involved in a Project in any capacity (including Contributors) must adhere to the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/) and the [W3C Antitrust and Competition Policy](https://www.w3.org/policies/antitrust-2024/).
 
+W3C expects Projects to operate in public.
+
 ## Lifecycle of a Project
 
 **Note**: Work is ongoing for a more complete definition of the lifecycle of Projects in this Program.
