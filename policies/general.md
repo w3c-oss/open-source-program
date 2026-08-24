@@ -28,7 +28,7 @@ W3C Staff will make any decisions to discontinue hosting the Project (and windin
 
 ## Legal
 
-W3C will be responsible for decisions and policies related to Project intellectual property, including logos, trademarks, and domains. W3C expects Projects to use OSI-approved licenses.
+W3C will be responsible for decisions and policies related to Project intellectual property, including logos, trademarks, and domains. W3C expects Projects to use [OSI-approved licenses](https://opensource.org/licenses) but more experimentation is required before establishing a general policy.
 
 W3C will provide means for public input both about the open W3C Open Source Program and to specific Projects.
 
