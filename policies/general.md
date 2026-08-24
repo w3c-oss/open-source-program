@@ -10,8 +10,6 @@ References to “W3C” as a decision making entity mean “W3C Staff”. This d
 
 Anyone involved in a Project in any capacity (including Contributors) must adhere to the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/) and the [W3C Antitrust and Competition Policy](https://www.w3.org/policies/antitrust-2024/).
 
-W3C expects Projects to operate in public.
-
 ## Lifecycle of a Project
 
 **Note**: Work is ongoing for a more complete definition of the lifecycle of Projects in this Program.
@@ -33,6 +31,12 @@ W3C Staff will make any decisions to discontinue hosting the Project (and windin
 W3C will be responsible for decisions and policies related to Project intellectual property, including logos, trademarks, and domains. 
 
 W3C will provide means for public input both about the open W3C Open Source Program and to specific Projects.
+
+### Data collection and usage
+
+Most W3C business is conducted publicly, and privacy of submitted information is not expected.
+
+Specifically, information is exchanged via public email lists and public code repositories. None of these tools keep submitted information private. They are publicly accessible and archived in multiple locations around the world, by W3C and third parties. See [W3C's Mail policy](https://www.w3.org/policies/email/) and the [W3C privacy policy](https://www.w3.org/policies/privacy/) for more details.
 
 ## Staff resource allocation
 
