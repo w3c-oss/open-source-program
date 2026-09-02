@@ -25,5 +25,4 @@ For feedback on the code of a specific project, please refer to that project's r
 
 For feedback about the pilot or more generally about open source at W3C, please raise an issue in this repo.
 
-**Note:** We anticipate also having a mailing list for feedback.
-
+For general questions about the program you may also write to group-oss-program@w3.org.
