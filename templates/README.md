@@ -1,5 +1,4 @@
-@@To do@@
+@Body of Readme@
 
-Ends with:
+[Apache-2.0](LICENSE) © YYYY [World Wide Web Consortium](https://www.w3.org/) (2023-2026 Digital Bazaar, Inc.)
 
-Copyright [yyyy] [World Wide Web Consortium](https://www.w3.org/)
