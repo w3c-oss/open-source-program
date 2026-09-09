@@ -1,2 +1,4 @@
-@@copy this file:@@
- https://github.com/w3c/ash-nazg/blob/master/templates/CODE_OF_CONDUCT.md
+# Code of Conduct
+
+All documentation, code and communication under this repository are covered
+by the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/).
