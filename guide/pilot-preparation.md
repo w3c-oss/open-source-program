@@ -6,7 +6,7 @@ If you would like your project to be considered as a pilot, please let us know v
 
 ## Eligibility (in pilot mode)
 
-* While in pilot mode, we welcome discussions about becoming a pilot Project. However, we have limited bandwidth and unfortunately will not be able to accept a large number of pilot Projects.
+While in pilot mode, we welcome discussions about becoming a pilot Project. However, we have limited bandwidth and unfortunately will not be able to accept a large number of pilot Projects.
 
 ## Scope
 
