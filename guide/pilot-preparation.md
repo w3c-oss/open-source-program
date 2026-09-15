@@ -8,6 +8,12 @@ If you would like your project to be considered as a pilot, please let us know v
 
 * While in pilot mode, we welcome discussions about becoming a pilot Project. However, we have limited bandwidth and unfortunately will not be able to accept a large number of pilot Projects.
 
+## Scope
+
+W3C seeks to build a coherent Web architecture. Projects hosted at W3C would mature within an ecosystem that seeks to build a coherent open platform through processes and IPR policies designed to support interoperability, quality, and W3C values. 
+
+Pilot Projects should help accelerate the adoption of Web standards or support the Web standards community (including through tooling and by helping ensure that standards remain relevant and connected to developer realities) and would benefit from streamlined feedback loops with standardization activities.
+
 ## Background reading
 
 * [General W3C Open Source Program Policies](https://github.com/w3c-oss/open-source-program/blob/main/policies/general.md) describes policies that apply to all Projects in pilot mode.
