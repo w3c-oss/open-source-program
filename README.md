@@ -19,8 +19,8 @@ At a high level, W3C's goal for open source pilots are to get a better understan
 
 We are documenting as we go:
 
-* [what we hope to learn through pilots](guide/pilot-topics.md).
-* [how we are chatting with potential projects](guide/pilot-preparation.md)
+* [what we hope to learn through pilots](guide/pilot-topics.md)
+* [how we are interacting with potential projects](guide/pilot-preparation.md)
 
 # Feedback
 
