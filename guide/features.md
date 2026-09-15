@@ -18,13 +18,15 @@ To start, we seek to provide these services to projects:
   * An IPR framework that aligns with the open source ethos, covers management of trademarks and copyright.
   * A baseline set of policies shared by all projects (e.g., code of conduct).
 * **Resource management**
-  * Mechanisms for the community to provide resources necessary for the shared development and maintenance of projects (e.g., funding, people, hardware).
+  * Sustained resources for the shared development and maintenance of projects (e.g., funding, people, hardware).
 * **W3C branding**
-  * Organizational cachet plays an important role for many projects (and we have similar experiences through Community Groups). W3C will need to take a more systematic approach to brand management for projects, and to make sure that the level of W3C endorsement for any project is clear.
+  * W3C branding can enhance project visibility and standing.
+* **Ecosystem connectivity**  
+  * Proximity to W3C groups developing related specifications.
 
 ## Advanced features
 
-Once we have gained some experience, we hope to extend the program to support the following services:
+We hope to extend the program to support the following services:
 
 * **W3C integration**
   * Structured support for contributions throughout the lifecycle of Web technology (OSS ↔ incubation ↔ standardization ↔ adoption), where W3C experience can help with lifecycle transitions.
