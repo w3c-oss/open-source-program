@@ -17,7 +17,10 @@ W3C exercises principled influence on the direction of the Web through all of th
 
 At a high level, W3C's goal for open source pilots are to get a better understanding of how to create a more systematic approach to supporting projects that support W3C's mission and the Web.
 
-We are documenting [what we hope to learn through pilots](guide/pilot-topics.md).
+We are documenting as we go:
+
+* [what we hope to learn through pilots](guide/pilot-topics.md).
+* [how we are chatting with potential projects](guide/pilot-preparation.md)
 
 # Feedback
 
