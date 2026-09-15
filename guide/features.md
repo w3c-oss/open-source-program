@@ -22,7 +22,7 @@ To start, we seek to provide these services to projects:
 * **W3C branding**
   * W3C branding can enhance project visibility and standing.
 * **Ecosystem connectivity**  
-  * Proximity to W3C groups developing related specifications.
+  * Proximity to W3C groups developing related specifications and staff-facilitated interactions.
 
 ## Advanced features
 
