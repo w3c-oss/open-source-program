@@ -1,8 +1,8 @@
 # Features of the W3C Open Source Program
 
-W3C'sorganizational strengths provide meaningful opportunities for projects that
-relate closely to W3C specifications, and support their development
-and adoption.
+W3C's organizational strengths provide meaningful opportunities for
+projects that relate closely to W3C specifications and support their
+development and adoption.
 
 * W3C is a trusted brand for neutral, multi-stakeholder governance.
 * W3C has extensive experience convening communities to pursue Web-scale interoperability, through specification lifecycle management and policies that provide guarantees sought by multiple stakeholders.
