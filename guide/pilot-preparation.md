@@ -1,4 +1,4 @@
-# Preparation to become a pilot project of the W3C Open Source Program
+# Pilot preparation for the W3C Open Source Program
 
 **Status**: This documentation is focused on the pilot phase of the W3C Open Source Program. We will continue to develop as we learn from pilots, and this will inform "getting involved" documentation for a future operational program.
 
