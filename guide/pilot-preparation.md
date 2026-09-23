@@ -10,9 +10,9 @@ Note: We may not be able to accept a large number of pilot Projects while in pil
 
 ## Scope
 
-W3C seeks to build a coherent Web architecture. Projects hosted at W3C would mature within an ecosystem that seeks to build a coherent open platform through processes and IPR policies designed to support interoperability, quality, and [W3C values](https://www.w3.org/TR/w3c-vision/). 
+W3C seeks to build a coherent Web architecture. Projects supported by W3C would mature within an ecosystem that seeks to build a coherent open platform through processes and IPR policies designed to support interoperability, quality, and [W3C values](https://www.w3.org/TR/w3c-vision/). 
 
-Pilot Projects should help accelerate the adoption of Web standards or support the Web standards community (including through tooling and by helping ensure that standards remain relevant and connected to developer realities) and would benefit from streamlined feedback loops with standardization activities.
+These Projects should help accelerate the adoption of Web standards or support the Web standards community (including through tooling and by helping ensure that standards remain relevant and connected to developer realities) and would benefit from streamlined feedback loops with standardization activities.
 
 ## What we'll need to set up the Project
 
