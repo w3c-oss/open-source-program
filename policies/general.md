@@ -1,7 +1,5 @@
 # General W3C Open Source Program Policies
 
-**Status**: Draft.
-
 This page documents information intended to be generally applicable across Projects in the W3C Open Source Program.
 
 References to “W3C” as a decision making entity mean “W3C Staff”. This document does not cover details of how the W3C Management allocates decision-making within the Staff.
