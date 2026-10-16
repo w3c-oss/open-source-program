@@ -16,15 +16,15 @@ Anyone involved in a Project in any capacity (including Contributors) must adher
 
 ### Ongoing monitoring of Project health
 
-W3C staff will monitor the health of the Project and if activity levels drop below “healthy” work with the Project to identify a path to renewed energy.
+W3C staff will monitor the health of a Project and if activity levels drop below “healthy” work with the Project to identify a path to renewed energy.
 
 ### Continuing / Discontinuing a Project
 
-W3C Staff expects to continue the project as long as the minimum resource requirements are available.
+W3C Staff expects to continue a Project as long as the minimum resource requirements are available.
 
 W3C Staff may make certain commitments contingent upon a minimum level of resource commitment from a clearly identified set of Supporters.
 
-W3C Staff will make any decisions to discontinue hosting the Project (and winding it down or exporting it in a responsible way). 
+W3C Staff will make any decisions to discontinue hosting the Project (and winding it down or exporting it in a responsible way). W3C Staff will also make any decisions to restart discontinued Projects.
 
 ## Legal
 
@@ -44,7 +44,7 @@ W3C will be responsible for any decisions related to the allocation of staff res
 
 ## Brand and communications
 
-W3C will make decisions and establish all policies related to the use of the W3C brand and logo in conjunction with the Project.
+W3C will make decisions and establish all policies related to the use of the W3C brand and logo in conjunction with a Project.
 
 ## Financial management
 
