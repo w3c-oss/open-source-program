@@ -1,5 +1,5 @@
 # W3C Open Source Program
-**This program is in development**. Questions? Contact Ian Jacobs &lt;ij@w3.org&gt;
+**This program is in development**. 
 
 The [W3C Vision](https://www.w3.org/TR/w3c-vision/) states: “The fundamental function of W3C is to provide an open forum where diverse voices from around the world and from different organizations and industries work together to evolve the web by building consensus on voluntary global standards for Web technologies.” W3C connects with stakeholders globally through Membership, liaisons, chapters, evangelists, developer outreach, and education programs. The Community Groups program, with over 12,000 participants, demonstrates how lowering barriers to participation has enabled W3C to learn from new communities of innovation (with regional and industry-specific expertise) and share W3C values more broadly.
 
@@ -29,9 +29,9 @@ For feedback on the code of a specific project, please refer to that project's r
 
 For feedback about the pilot or more generally about open source at W3C, please raise an issue in this repo.
 
-# About the Open Source Proram Community Group 
+# About the Open Source Program Community Group 
 
-The W3C Open Source Proram Community Group uses this repository for its work.
+The mission of the W3C Open Source Program Community Group is to manage the next phase of growth of the W3C Open Source Program. The Community Group uses this repository for its work.
 
 * [Community Group Charter](cg/charter.md)
 * Meetings (TBD)
