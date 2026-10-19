@@ -9,11 +9,11 @@ W3C exercises principled influence on the direction of the Web through all of th
 
 * [Can I VC](projects/canivc)
 
-# Policies
+## Policies for pilot projects
 
 * [General policies for W3C open source projects](policies/general.md)
 
-# About the pilot
+## About pilot projects
 
 At a high level, W3C's goal for open source pilots are to get a better understanding of how to create a more systematic approach to supporting projects that support W3C's mission and the Web.
 
@@ -23,10 +23,19 @@ We are documenting as we go:
 * [how we are chatting with potential projects](guide/pilot-preparation.md)
 * [what we hope to learn through pilots](guide/pilot-topics.md).
 
-# Feedback
+## Feedback on pilots
 
 For feedback on the code of a specific project, please refer to that project's repo. 
 
 For feedback about the pilot or more generally about open source at W3C, please raise an issue in this repo.
 
-For general questions about the program you may also write to group-oss-program@w3.org.
+# About the Open Source Proram Community Group 
+
+The W3C Open Source Proram Community Group uses this repository for its work.
+
+* [Community Group Charter](cg/charter.md)
+* Meetings (TBD)
+* Mailing list (TBD)
+* Slack (TBD)
+
+You may contact the Chair(s) and W3C staff privately via group-oss-program@w3.org.
