@@ -31,7 +31,7 @@ For feedback about the pilot or more generally about open source at W3C, please 
 
 # About the Open Source Program Community Group 
 
-The mission of the W3C Open Source Program Community Group is to manage the next phase of growth of the W3C Open Source Program. The Community Group uses this repository for its work.
+The mission of the [W3C Open Source Program Community Group](https://www.w3.org/groups/cg/w3c-open-source-program/) is to manage the next phase of growth of the W3C Open Source Program. The Community Group uses this repository for its work.
 
 * [Community Group Charter](cg/charter.md)
 * Meetings (TBD)
