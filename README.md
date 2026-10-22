@@ -8,6 +8,7 @@ W3C exercises principled influence on the direction of the Web through all of th
 # Pilot projects
 
 * [Can I VC](projects/canivc)
+* [WebMCP Polyfill](projects/webmcp-polyfill)
 
 ## Policies for pilot projects
 
