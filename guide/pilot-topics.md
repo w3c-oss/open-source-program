@@ -31,7 +31,6 @@ Open source projects should be as self-governing as possible.
 * For the CanIVC project we are experimenting with gathering contributor agreements (CLA) for the purpose of making it easier for W3C to relicense the aggregate of contributions (if that proves necessary). We recognize that collecting CLAs creates friction for some contributors (e.g., because they may need to do more to consult with legal departments) and there is a small cost to managing those CLAs for W3C. Through the pilot we hope to gain a better understanding of tradeoffs. 
    * Another question: our expectation is that it will be public knowledge who signed the CLA for a given project. We welcome feedback on that choice.
 
-
 ## Project lifecycle
 
 * How do we choose which projects to bring into the program (and which we do not)?
@@ -53,3 +52,6 @@ Open source projects should be as self-governing as possible.
 * What resources can this program bring to W3C (new communities, new sources of funding, etc.)?
 * What level of staff commitment is necessary to grow the program?
 
+## Branding and communications considerations
+
+* How will we talk about and distinguish three W3C programs: standardization, incubation, and open source?
