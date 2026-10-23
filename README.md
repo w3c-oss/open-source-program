@@ -36,7 +36,7 @@ The mission of the [W3C Open Source Program Community Group](https://www.w3.org/
 
 * [Community Group Charter](cg/charter.md)
 * Meetings (TBD)
-* Mailing list (TBD)
+* public-w3c-open-source-program@w3.org ([archive](https://lists.w3.org/Archives/Public/public-w3c-open-source-program/))
 * Slack (TBD)
 
 You may contact the Chair(s) and W3C staff privately via group-oss-program@w3.org.
