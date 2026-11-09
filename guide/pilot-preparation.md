@@ -15,7 +15,7 @@ W3C seeks to build a coherent Web architecture. Projects supported by W3C would 
 Pilot Projects should do at least one of the following:
 
 * Help accelerate the adoption of Web standards.
-* Leverage streamlined feedback loops with standardization activities.
+* Leverage streamlined feedback loops with Web standardization activities.
 * Support the activities of the Web standards community (including through tooling and by helping ensure that standards remain relevant and connected to developer realities).
 
 ## What we'll need to set up the Project
@@ -25,6 +25,7 @@ The W3C staff managing the pilots will work with you on these topics to understa
 * A Statement of Purpose of the Project
 * Governance
   * Who are the initial Code Owners for this Project?
+  * Who is the support community for the Project (e.g., a Working Group or Community Group)? For pilots, we expect projects to be community-driven, not  individual activities.
   * Are there governance details to document? For example, we anticipate that many Projects will delegate code integration decisions to Code Owners, but that this will be done with input from a Support Committee such as a W3C group.
   * Are there aspects of governance where W3C can provide particular value to your Project?
 * Licensing
