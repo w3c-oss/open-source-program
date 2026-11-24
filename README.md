@@ -34,9 +34,4 @@ For feedback about the pilot or more generally about open source at W3C, please 
 
 The mission of the [W3C Open Source Program Community Group](https://www.w3.org/groups/cg/w3c-open-source-program/) is to manage the next phase of growth of the W3C Open Source Program. The Community Group uses this repository for its work.
 
-* [Community Group Charter](cg/charter.md)
-* Meetings (TBD)
-* public-w3c-open-source-program@w3.org ([archive](https://lists.w3.org/Archives/Public/public-w3c-open-source-program/))
-* Slack (TBD)
-
 You may contact the Chair(s) and W3C staff privately via group-oss-program@w3.org.
